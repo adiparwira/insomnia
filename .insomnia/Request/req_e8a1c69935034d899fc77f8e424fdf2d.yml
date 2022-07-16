@@ -1,0 +1,21 @@
+_id: req_e8a1c69935034d899fc77f8e424fdf2d
+type: Request
+parentId: wrk_9ce76bec031c4154b806393f9fd69e5a
+modified: 1657938345259
+created: 1657937537129
+url: "{{ base_url }}/uuid"
+name: Return a UUID
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657937537129
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
